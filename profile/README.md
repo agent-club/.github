@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/agent-club"><img alt="GitHub org" src="https://img.shields.io/badge/GitHub-agent--club-111827?style=for-the-badge&logo=github&logoColor=white"></a>
-  <img alt="Agents" src="https://img.shields.io/badge/agents-built_to_ship-38BDF8?style=for-the-badge">
-  <img alt="Workflows" src="https://img.shields.io/badge/workflows-human_in_the_loop-A7F3D0?style=for-the-badge">
+  <strong>Practical agent systems for people who care about craft.</strong>
+  <br>
+  <sub>agent runtimes · workflow tools · evals · human-in-the-loop interfaces</sub>
 </p>
 
 ## Welcome to Agent Club
