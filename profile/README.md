@@ -1,60 +1,85 @@
 <p align="center">
-  <img alt="Agent Club" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:08111F,45:0EA5E9,100:A7F3D0&text=Agent%20Club&fontColor=F8FAFC&fontSize=58&fontAlignY=38&desc=small%20agents%20sharp%20tools%20real-world%20workflows&descAlignY=58" width="100%">
+  <a href="https://agentclub.dev/en/">
+    <img src="https://raw.githubusercontent.com/agent-club/.github/main/profile/assets/club-banner.svg" alt="Agent Club — Small tools. Big possibilities." width="100%">
+  </a>
 </p>
 
 <p align="center">
-  <strong>Practical agent systems for people who care about craft.</strong>
-  <br>
-  <sub>agent runtimes · workflow tools · evals · human-in-the-loop interfaces</sub>
+  <strong>Small, sharp tools. Made for real life.</strong><br>
+  <sub>Desktop apps · Web tools · Browser extensions · Room for the next idea</sub>
 </p>
 
-## Welcome to Agent Club
+<p align="center">
+  <a href="https://agentclub.dev/en/"><strong>Visit the club ↗</strong></a> &nbsp; · &nbsp;
+  <a href="#the-collection">Explore the collection</a> &nbsp; · &nbsp;
+  <a href="#简体中文">简体中文</a>
+</p>
 
-Agent Club is a home for practical agent systems: small autonomous workers, command-line copilots, workflow bots, evaluation rigs, and the glue code that helps people ship with them.
+---
 
-We like agents that are useful under pressure: observable, reversible, testable, and built with enough taste that humans actually want them in the loop.
+We're **Agent Club**, an independent builder collective. We make useful tools around agents and real-world workflows, with room for a little curiosity.
 
-## What we are building
+From keeping a screenshot in sight to giving an article room to breathe, we start with everyday friction and build something small enough to do its job well.
 
-| Track | Focus | Status |
-| --- | --- | --- |
-| Agent runtimes | Lightweight agent loops, tool routing, memory boundaries, and task state | Opening soon |
-| Workflow kits | Reusable patterns for reviews, release work, research, docs, and operations | Opening soon |
-| Evaluation | Fixtures, traces, scoring helpers, and regression checks for agent behavior | Opening soon |
-| Interface experiments | Chat, CLI, desktop, browser, and hybrid control surfaces | Opening soon |
+## The collection
 
-## Club principles
+Five projects, each with its own character. More ideas are taking shape.
 
-- **Ship agents, not demos.** The goal is durable workflow value, not novelty.
-- **Keep humans in command.** Autonomy is useful when review, rollback, and consent are designed in.
-- **Make behavior inspectable.** Logs, traces, plans, and evals are part of the product.
-- **Prefer small sharp tools.** Composable agents beat giant opaque systems.
-- **Respect private context.** Secrets, user data, and local state deserve hard boundaries.
+| Project | A little less friction | Explore |
+| :--- | :--- | :--- |
+| **PinboardShot**<br><sub>Native macOS app</sub> | Capture, annotate, extract text, and pin screenshots. Keep inspiration close at hand. | [Website](https://pinboardshot.agentclub.dev/) · [Source](https://github.com/agent-club/PinboardShot) |
+| **Saylit**<br><sub>Writing studio</sub> | Write in Markdown, preview your layout, and copy a beautifully arranged article into WeChat. | [Website](https://saylit.agentclub.dev/) · [Source](https://github.com/agent-club/saylit) |
+| **Daymark**<br><sub>Calendar subscriptions</sub> | Bring Chinese holidays, solar terms, and adjusted-workday reminders into Apple Calendar. | [Website](https://daymark.agentclub.dev/) · [Source](https://github.com/agent-club/daymark) |
+| **History Sweep**<br><sub>Chrome extension</sub> | Find browsing history by website, keyword, or date. Review and clear selected records on your device. | [Website](https://sweep.agentclub.dev/) · [Source](https://github.com/agent-club/history-sweep) |
+| **Page QR**<br><sub>Chrome extension</sub> | Turn webpages or text into customizable QR codes. Works offline, with PNG and SVG export. | [Source](https://github.com/agent-club/page-qr-extension) |
 
-## Start here
+**[See the projects in motion on our website →](https://agentclub.dev/en/#projects)**
 
-The organization is just getting warmed up. Public repositories will appear here as they become useful enough to share.
+## What makes it a club
 
-If you are building something in this space, start a discussion around:
+**Useful in everyday life.** Start with a real task. Give each tool a clear purpose.
 
-- agent architecture and tool interfaces
-- eval design and reliability checks
-- local-first workflows and privacy boundaries
-- UI patterns for supervising agent work
-- weird but useful automations that survived contact with reality
+**People stay in control.** Make choices understandable and keep privacy boundaries clear.
 
-## Repo naming style
+**Care in the details.** Thoughtful interfaces, precise behavior, and tools worth returning to.
 
-We use short names that say what the thing does:
+Explore a project, share an idea in its issues, or contribute to a public repository. There's room for the next good idea.
 
-- `agent-loop`
-- `workflow-kit`
-- `eval-lab`
-- `toolbench`
-- `desktop-agents`
+---
 
-## Maintainer note
+## 简体中文
 
-Agent Club is built for people who enjoy the craft of making AI systems feel less magical and more trustworthy.
+**小而锋利的工具，让想法走进真实生活。**
 
-Pull up a chair. Bring traces.
+Agent Club 是一个独立创造者的集合。我们围绕智能体与真实工作流，打磨实用工具，也为好奇心留一片实验场。
+
+从把灵感贴在屏幕上，到让一篇文章排得更舒服，我们从日常的不顺手出发，把工具做小，把细节做好。
+
+### 探索作品
+
+五个项目，各有个性。更多想法，正在发生。
+
+| 项目 | 解决一点日常的不顺手 | 探索 |
+| :--- | :--- | :--- |
+| **PinboardShot**<br><sub>macOS 原生应用</sub> | 截图、标注、OCR、贴屏，把参考与灵感留在眼前。 | [产品](https://pinboardshot.agentclub.dev/) · [源码](https://github.com/agent-club/PinboardShot) |
+| **简言 Saylit**<br><sub>写作工作台</sub> | 用 Markdown 写作，实时预览文章版式，一键复制到公众号。 | [产品](https://saylit.agentclub.dev/) · [源码](https://github.com/agent-club/saylit) |
+| **Daymark**<br><sub>日历订阅服务</sub> | 将中国节假日、二十四节气与调休提醒带进 Apple 日历。 | [产品](https://daymark.agentclub.dev/) · [源码](https://github.com/agent-club/daymark) |
+| **History Sweep**<br><sub>Chrome 扩展</sub> | 按网站、关键词和日期查找浏览记录，审阅后在本机批量清理。 | [产品](https://sweep.agentclub.dev/) · [源码](https://github.com/agent-club/history-sweep) |
+| **页码 Page QR**<br><sub>Chrome 扩展</sub> | 离线生成网页或文字二维码，自定义配色与尺寸，导出 PNG 或 SVG。 | [源码](https://github.com/agent-club/page-qr-extension) |
+
+**[前往官网，看看动起来的作品 →](https://agentclub.dev/zh/#projects)**
+
+### 我们在意的事
+
+**实用。** 从真实任务出发，每个工具都有清楚的用途。
+
+**掌控。** 让选择容易理解，让隐私边界清晰可见。
+
+**打磨。** 认真对待界面与行为，做值得每天打开的工具。
+
+欢迎试用作品、在对应仓库的 Issues 里交流想法，或为公开项目贡献代码。这里始终为下一个好想法留着位置。
+
+<p align="center">
+  <a href="https://agentclub.dev/zh/">访问中文官网 ↗</a> &nbsp; · &nbsp;
+  <a href="https://github.com/orgs/agent-club/repositories">浏览公开仓库</a>
+</p>
